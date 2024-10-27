@@ -8,24 +8,40 @@ The Chronic Kidney Disease (CKD) Detection Model is a project aimed at leveragin
 
 ## Features
 • Advanced Neural Network Techniques: Utilizes Convolutional Neural Networks (CNN) and other machine learning models for precise detection and classification of Chronic Kidney Disease.
+
 • Data-Driven Approach: Analyzes clinical data, lab test results, and medical images to enhance diagnostic accuracy.
+
 • Early Detection Capability: Identifies CKD at early stages, helping in proactive treatment and improving patient outcomes.
+
 • User-Friendly Deployment: Can be deployed as a web-based or cloud-based application, enabling easy integration with healthcare systems.
+
 • High Scalability: Handles large datasets and multiple patient records efficiently, making it suitable for hospitals and clinics of all sizes.
+
 • Low Time Complexity: Delivers quick predictions, ensuring timely intervention and diagnosis.
+
 • Performance Evaluation Metrics: Employs confusion matrix, accuracy, recall, and F1-score to monitor and optimize model performance.
 
 ## Requirements
 • Operating System: Requires a 64-bit OS (Windows 10, Ubuntu, or macOS) to ensure compatibility with deep learning frameworks.
+
 • Development Environment: Python 3.6 or later is necessary for building and training the CKD detection model.
+
 • Deep Learning Frameworks: TensorFlow serves as the core framework for developing and training the AI model.
+
 • Neural Network API: Keras is used as a high-level API within TensorFlow for designing and implementing neural networks.
+
 • AI, ML, and DL Techniques: The project leverages artificial intelligence, machine learning, and deep learning methodologies for CKD detection.
+
 • Neural Architecture: CNN (Convolutional Neural Network) may be used for better pattern recognition in patient data and images.
+
 • Medical Imaging Data: CT scans or other medical imaging data might be used as input features to enhance model predictions.
+
 • Image Processing Libraries: OpenCV can be employed for handling medical images if image-based predictions are implemented.
+
 • IDE: Visual Studio Code (VSCode) is recommended for coding, debugging, and version control integration.
+
 • Version Control: Git is necessary for collaborative development and managing code versions effectively.
+
 • Additional Dependencies: Includes essential libraries such as scikit-learn (for model evaluation), TensorFlow GPU (for faster training), and NumPy/Pandas (for data preprocessing and analysis).
 
 ## System Architecture
@@ -55,6 +71,7 @@ This project showcases the potential of artificial intelligence in healthcare, s
 
 ## Articles published / References
 • R. Sharma, P. Gupta, and A. Verma, “Improving CKD Detection Through Convolutional Neural Networks,” International Journal of AI and Healthcare, vol. 11, Mar. 2024.
+
 • S. Kumar and J. Singh, “Deep Learning in Healthcare: CKD Prediction with CNNs,” IEEE Transactions on Medical Imaging, vol. 10, no. 1, Jan. 2024.
 
 
